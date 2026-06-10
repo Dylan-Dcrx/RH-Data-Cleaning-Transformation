@@ -1,6 +1,6 @@
 # 📊 RH – Data Cleaning & Transformation Project
 
-Un projet complet de **nettoyage, structuration et standardisation** de fichiers Excel anciens.  
+Un projet complet de **nettoyage, structuration et standardisation** de fichiers Excel bruts.  
 Objectif : transformer des données brutes hétérogènes en un dataset propre, cohérent et prêt pour l’analyse.
 
 ---
