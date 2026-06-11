@@ -1,6 +1,6 @@
 # 📊 RH – Data Cleaning & Transformation Project
 
-Un projet complet de **nettoyage, structuration et standardisation** de fichiers Excel bruts.  
+Un projet complet de **nettoyage, structuration et standardisation ainsi que d'analyse RH avec tableau de bord interactif**.  
 Objectif : transformer des données brutes hétérogènes en un dataset propre, cohérent et prêt pour l’analyse.
 
 ---
@@ -13,24 +13,28 @@ documentation/     → Documentation du processus
 
 ---
 
-## 🧹 Étapes principales du nettoyage
+## 🧹 Étapes principales
 
-- Normalisation des dates  
-- Nettoyage des champs numériques  
-- Suppression des doublons  
-- Gestion des valeurs manquantes  
-- Harmonisation des catégories  
-- Vérification de la cohérence des colonnes  
-- Production d’un fichier final exploitable  
+- Import et structuration de plusieurs fichiers RH  
+- Nettoyage et harmonisation des données (dates, montants, formats)  
+- Calculs RH : âge, ancienneté, taux, alertes, indicateurs clés  
+- Tableaux croisés dynamiques + segments interactifs  
+- Synthèse des absences (top 10, taux d’absentéisme)  
+- Analyse des formations (filtre dynamique)  
+- Suivi des entretiens (alertes automatiques)  
+- Analyse du turnover (taux + icônes conditionnelles)  
+- Tableau de bord RH design avec graphiques et filtres
 
 ---
 
 ## 🛠 Compétences démontrées
 
-- Data cleaning & preprocessing  
-- Transformation Excel avancée  
-- Contrôle qualité des données   
-- Tableau de bord 
+- Excel avancé (TCD, segments, formats, thèmes)  
+- Nettoyage & structuration de données  
+- Calculs RH & indicateurs clés  
+- Mise en forme conditionnelle  
+- Tableaux de bord & visualisation  
+- Organisation & documentation de projet
 
 ---
 
